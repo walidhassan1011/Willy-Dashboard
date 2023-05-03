@@ -7,7 +7,7 @@ willy dashboard is a dashboard template with a lot of features and two themes yo
 ## Features
 
 - Light/dark mode toggle
-- your manage your team && users
+- manage your team && users
 - calendar 
 - FQA page
 - charts 
